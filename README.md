@@ -1,4 +1,4 @@
-# Sleep Efficiency Dashboard in Power BI Case Study
+# Sleep Efficiency Dashboard in Power BI 
 Welcome to the Sleep Efficiency Dashboard Case Study on Power BI. In this project, we will explore a real-world dataset from Kaggle to analyze sleep efficiency trends and identify factors that may impact it. Our goal is to create a comprehensive and visually appealing Power BI dashboard that provides valuable insights into sleep efficiency and suggests strategies for improving it.
 
 ## Objective
